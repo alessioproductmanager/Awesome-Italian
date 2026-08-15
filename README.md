@@ -27,7 +27,15 @@ Each level includes:
 - flashcards
 - example resources
 
+### Comprehensive Grammar & Practice
+- **[Thuisitaliaans - Grammatica in 14 lingue](https://thuisitaliaans.com/grammatica/)** – Spiegazioni grammaticali dettagliate disponibili in 14 lingue: Albanese, Arabo, Bengalese, Filippino (Tagalog), Francese, Inglese, Olandese, Portoghese, Rumeno, Russo, Spagnolo, Tedesco, Tigrino e Ucraino. Include file PDF scaricabili.
+  
+- **[Thuisitaliaans - Esercizi Interattivi](https://thuisitaliaans.com/oefeningen/)** – Oltre 700 esercizi gratuiti ed interattivi per ogni livello di competenza.
+
 ## Extra Learning Resources
+
+### Apps & Mobile Tools
+- **[Thuisitaliaans App](https://thuisitaliaans.com/app-ti)** – Un'applicazione dedicata per studiare l'italiano e fare pratica in mobilità con spiegazioni e supporto nelle seguenti 14 lingue: Albanese, Arabo, Bengalese, Filippino (Tagalog), Francese, Inglese, Olandese, Portoghese, Rumeno, Russo, Spagnolo, Tedesco, Tigrino e Ucraino.
 
 ### YouTube
 Italian learning channels and educational content.
